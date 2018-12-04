@@ -1,0 +1,274 @@
+[
+  {
+    "color": "ivory",
+    "department": "Grocery",
+    "productName": "Practical Concrete Cheese",
+    "price": "448.00",
+    "productAdjective": "Small",
+    "product": "Computer"
+  },
+  {
+    "color": "yellow",
+    "department": "Movies",
+    "productName": "Unbranded Plastic Pants",
+    "price": "965.00",
+    "productAdjective": "Fantastic",
+    "product": "Shirt"
+  },
+  {
+    "color": "pink",
+    "department": "Games",
+    "productName": "Licensed Rubber Table",
+    "price": "649.00",
+    "productAdjective": "Rustic",
+    "product": "Chair"
+  },
+  {
+    "color": "purple",
+    "department": "Automotive",
+    "productName": "Unbranded Rubber Keyboard",
+    "price": "623.00",
+    "productAdjective": "Licensed",
+    "product": "Cheese"
+  },
+  {
+    "color": "purple",
+    "department": "Beauty",
+    "productName": "Fantastic Soft Ball",
+    "price": "607.00",
+    "productAdjective": "Refined",
+    "product": "Shirt"
+  },
+  {
+    "color": "gold",
+    "department": "Automotive",
+    "productName": "Handmade Cotton Computer",
+    "price": "9.00",
+    "productAdjective": "Gorgeous",
+    "product": "Bike"
+  },
+  {
+    "color": "orange",
+    "department": "Music",
+    "productName": "Handcrafted Cotton Keyboard",
+    "price": "933.00",
+    "productAdjective": "Rustic",
+    "product": "Chair"
+  },
+  {
+    "color": "grey",
+    "department": "Clothing",
+    "productName": "Handcrafted Rubber Table",
+    "price": "955.00",
+    "productAdjective": "Practical",
+    "product": "Tuna"
+  },
+  {
+    "color": "azure",
+    "department": "Jewelery",
+    "productName": "Refined Metal Ball",
+    "price": "710.00",
+    "productAdjective": "Rustic",
+    "product": "Cheese"
+  },
+  {
+    "color": "red",
+    "department": "Electronics",
+    "productName": "Tasty Steel Table",
+    "price": "576.00",
+    "productAdjective": "Incredible",
+    "product": "Keyboard"
+  },
+  {
+    "color": "cyan",
+    "department": "Shoes",
+    "productName": "Practical Frozen Sausages",
+    "price": "106.00",
+    "productAdjective": "Rustic",
+    "product": "Car"
+  },
+  {
+    "color": "fuchsia",
+    "department": "Toys",
+    "productName": "Handmade Cotton Mouse",
+    "price": "753.00",
+    "productAdjective": "Practical",
+    "product": "Sausages"
+  },
+  {
+    "color": "violet",
+    "department": "Sports",
+    "productName": "Refined Concrete Pizza",
+    "price": "539.00",
+    "productAdjective": "Ergonomic",
+    "product": "Keyboard"
+  },
+  {
+    "color": "black",
+    "department": "Games",
+    "productName": "Fantastic Concrete Sausages",
+    "price": "464.00",
+    "productAdjective": "Gorgeous",
+    "product": "Keyboard"
+  },
+  {
+    "color": "ivory",
+    "department": "Tools",
+    "productName": "Awesome Frozen Mouse",
+    "price": "835.00",
+    "productAdjective": "Incredible",
+    "product": "Tuna"
+  },
+  {
+    "color": "orchid",
+    "department": "Grocery",
+    "productName": "Handmade Granite Computer",
+    "price": "479.00",
+    "productAdjective": "Small",
+    "product": "Mouse"
+  },
+  {
+    "color": "salmon",
+    "department": "Toys",
+    "productName": "Handmade Plastic Hat",
+    "price": "251.00",
+    "productAdjective": "Practical",
+    "product": "Mouse"
+  },
+  {
+    "color": "lime",
+    "department": "Movies",
+    "productName": "Tasty Steel Chips",
+    "price": "908.00",
+    "productAdjective": "Handmade",
+    "product": "Chicken"
+  },
+  {
+    "color": "purple",
+    "department": "Baby",
+    "productName": "Licensed Rubber Salad",
+    "price": "402.00",
+    "productAdjective": "Rustic",
+    "product": "Keyboard"
+  },
+  {
+    "color": "azure",
+    "department": "Grocery",
+    "productName": "Fantastic Rubber Tuna",
+    "price": "21.00",
+    "productAdjective": "Fantastic",
+    "product": "Pizza"
+  },
+  {
+    "color": "lavender",
+    "department": "Garden",
+    "productName": "Gorgeous Frozen Chips",
+    "price": "391.00",
+    "productAdjective": "Unbranded",
+    "product": "Chair"
+  },
+  {
+    "color": "mint green",
+    "department": "Movies",
+    "productName": "Tasty Plastic Shirt",
+    "price": "579.00",
+    "productAdjective": "Handcrafted",
+    "product": "Car"
+  },
+  {
+    "color": "indigo",
+    "department": "Baby",
+    "productName": "Gorgeous Concrete Sausages",
+    "price": "28.00",
+    "productAdjective": "Handmade",
+    "product": "Salad"
+  },
+  {
+    "color": "white",
+    "department": "Beauty",
+    "productName": "Practical Steel Salad",
+    "price": "357.00",
+    "productAdjective": "Gorgeous",
+    "product": "Table"
+  },
+  {
+    "color": "grey",
+    "department": "Baby",
+    "productName": "Awesome Steel Pizza",
+    "price": "905.00",
+    "productAdjective": "Handmade",
+    "product": "Cheese"
+  },
+  {
+    "color": "ivory",
+    "department": "Computers",
+    "productName": "Generic Granite Shirt",
+    "price": "60.00",
+    "productAdjective": "Fantastic",
+    "product": "Pants"
+  },
+  {
+    "color": "tan",
+    "department": "Toys",
+    "productName": "Fantastic Rubber Tuna",
+    "price": "160.00",
+    "productAdjective": "Handcrafted",
+    "product": "Pants"
+  },
+  {
+    "color": "lavender",
+    "department": "Industrial",
+    "productName": "Gorgeous Frozen Towels",
+    "price": "877.00",
+    "productAdjective": "Handmade",
+    "product": "Shirt"
+  },
+  {
+    "color": "salmon",
+    "department": "Kids",
+    "productName": "Ergonomic Plastic Fish",
+    "price": "497.00",
+    "productAdjective": "Gorgeous",
+    "product": "Towels"
+  },
+  {
+    "color": "cyan",
+    "department": "Grocery",
+    "productName": "Generic Granite Table",
+    "price": "190.00",
+    "productAdjective": "Tasty",
+    "product": "Keyboard"
+  },
+  {
+    "color": "teal",
+    "department": "Industrial",
+    "productName": "Rustic Concrete Tuna",
+    "price": "940.00",
+    "productAdjective": "Handcrafted",
+    "product": "Shirt"
+  },
+  {
+    "color": "pink",
+    "department": "Shoes",
+    "productName": "Awesome Wooden Chair",
+    "price": "903.00",
+    "productAdjective": "Tasty",
+    "product": "Chair"
+  },
+  {
+    "color": "salmon",
+    "department": "Electronics",
+    "productName": "Fantastic Rubber Ball",
+    "price": "512.00",
+    "productAdjective": "Handmade",
+    "product": "Chair"
+  },
+  {
+    "color": "fuchsia",
+    "department": "Shoes",
+    "productName": "Licensed Concrete Hat",
+    "price": "509.00",
+    "productAdjective": "Incredible",
+    "product": "Salad"
+  }
+]
